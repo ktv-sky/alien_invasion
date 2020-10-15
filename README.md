@@ -1,11 +1,12 @@
 # Alien Invasion game!
 
+## How to play
 1. Install libraries Pygame depends on:
 
->`brew install hg sdl sdl_image sdl_ttf`
+    `brew install hg sdl sdl_image sdl_ttf`
 2. Install Pygame
 
->`python3 -m pip install -U pygame --user`
+    `python3 -m pip install -U pygame --user`
 3. Run alien_invasion.py
 4. Enjoy!
 
